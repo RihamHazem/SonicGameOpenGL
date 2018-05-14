@@ -1,0 +1,3 @@
+/home/riham/Documents/Second Year/Sonic/ Sonic Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/riham/Documents/Second Year/Sonic/ Sonic Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/riham/Documents/Second Year/Sonic/ Sonic Game/cmake-build-debug/CMakeFiles/graphics.dir
